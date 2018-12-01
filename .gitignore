@@ -25,3 +25,6 @@ hs_err_pid*
 # Other files expansions
 *.pdf
 *.odt
+*.png
+*.out
+*.jpg
